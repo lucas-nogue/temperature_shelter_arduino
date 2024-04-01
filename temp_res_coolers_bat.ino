@@ -11,7 +11,6 @@ LiquidCrystal_I2C lcd(0x3F, 20, 4);  // set the LCD address to 0x3F for a 20 cha
 // variables globales
 float voltInt, tempInt, voltExt, tempExt, voltBat, tempBat;
 //pines analogicos
-//mas texho
 const int pinInt = 0;
 const int pinExt = 1;
 const int pinBat = 2;
