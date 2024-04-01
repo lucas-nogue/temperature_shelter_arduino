@@ -1,0 +1,20 @@
+digital pins
+resistencia:2
+coolers:3
+baterias:4
+button:5
+lcdpower:7
+rele:8
+led status 9
+
+
+analog pins
+input int:0
+input ext:1
+input bat:2
+
+i2c=
+SCL= A5
+SDA= A4
+VCC= 5V
+GND= GND
